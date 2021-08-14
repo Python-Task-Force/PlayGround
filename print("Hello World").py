@@ -1,3 +1,1 @@
-print("Hello World")
-def test():
-    if and whyta
+print(range(10))
